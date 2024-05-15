@@ -1,6 +1,7 @@
 # JavaScript
 
-Progaram : basics.js
+Program : basics.js
+
 Program Description:
 The program follows these steps:
 
