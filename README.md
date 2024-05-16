@@ -15,3 +15,11 @@ Variables: Declaration and initialization of variables to store data such as mas
 String Literals: Incorporating string literals to format messages and output data with dynamic values.
 
 Equality Operators: Using the `==` and `===` operators for comparison to check equality between values.
+
+Arrow Functions: Definition and usage of arrow functions for concise function expressions.
+
+Function Declarations: Using function declarations to define reusable blocks of code.
+
+Anonymous Functions: Functions that are defined without a name and are often used as arguments to other functions or assigned to a variable.
+
+Code Reusability: Creating reusable functions to avoid redundancy and improve code maintainability.
