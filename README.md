@@ -21,3 +21,7 @@ Function Declarations: Using function declarations to define reusable blocks of 
 Anonymous Functions: Functions that are defined without a name and are often used as arguments to other functions or assigned to a variable.
 
 Code Reusability: Creating reusable functions to avoid redundancy and improve code maintainability.
+
+Arrays: Arrays are used to store multiple values in a single variable.
+
+Arrays methods: Array methods are built-in JavaScript functions for manipulating arrays, including operations like adding or removing elements, iterating, filtering, mapping, and reducing.
