@@ -35,3 +35,9 @@ Objects:
     Adding Methods to Objects: Defining functions within objects to perform actions on the object's data.
 
     Using the this Keyword: Understanding and using this to refer to the object in which a method is defined.
+
+Loops:
+
+    While Loop: Repeats a block of code as long as a specified condition is true.
+
+    For Loop: Repeats a block of code a specified number of times.
