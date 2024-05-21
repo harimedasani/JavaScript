@@ -27,6 +27,7 @@ Arrays: Arrays are used to store multiple values in a single variable.
 Arrays methods: Array methods are built-in JavaScript functions for manipulating arrays, including operations like adding or removing elements, iterating, filtering, mapping, and reducing.
 
 Objects:
+
     Definition and Initialization: Creating objects to store related data and functions.
 
     Accessing Object Properties: Using dot notation and bracket notation to access and modify object properties.
