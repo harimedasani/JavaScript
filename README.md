@@ -25,3 +25,12 @@ Code Reusability: Creating reusable functions to avoid redundancy and improve co
 Arrays: Arrays are used to store multiple values in a single variable.
 
 Arrays methods: Array methods are built-in JavaScript functions for manipulating arrays, including operations like adding or removing elements, iterating, filtering, mapping, and reducing.
+
+Objects:
+    Definition and Initialization: Creating objects to store related data and functions.
+
+    Accessing Object Properties: Using dot notation and bracket notation to access and modify object properties.
+
+    Adding Methods to Objects: Defining functions within objects to perform actions on the object's data.
+
+    Using the this Keyword: Understanding and using this to refer to the object in which a method is defined.
